@@ -1,0 +1,35 @@
+.input-name{
+    display: flex;
+    justify-content: center;
+    margin-top: 3vw;
+}
+.setting-buttons{
+    margin-top: 2vw;
+    display: flex;
+    justify-content: center;
+    gap: 1vw;
+}
+.click-block{
+    display: flex;
+    justify-content: center;
+
+}
+.btn-click{
+    margin-top: 5vw;
+    width: 22vw;
+    height: 22vw;
+    background-color: rgb(106, 190, 254);
+    border-radius: 50% 50% 50% 50%;
+    color: #000;
+    font-size: 2rem;
+}
+.btn{
+    font-size: 1rem;
+    padding: 0.25vw 0.5vw 0.25vw 0.5vw;
+    background-color: rgb(255, 232, 104);
+    border-radius: 0.25vw;
+}
+.input-nickname{
+    font-size: 1rem;
+    padding: 0.25vw 0.25vw 0.25vw 0.25vw;
+}
